@@ -1,0 +1,12 @@
+GIT Instructions
+
+1) Install GitHub Desktop https://desktop.github.com/
+2) Install Git https://git-scm.com/downloads - If using IDEs
+3) Go to the repository on GitHub https://github.com/daryllimziyang/DIS-2018-Workshop
+4) Click on the Clone or download button, copy the link.
+5-1) Open GitHub Desktop, use the copied link to clone the repository onto your local machine.
+5-2) If you accepted the invitation, GitHub Desktop will show your repositories, just clone the right one onto your local machine.
+6) Use GitHub Desktop to commit, pull or push updates to the project.
+7) Remember to pull before pushing any commits to avoid conflicts.
+
+*If you use IDEs, they may include Git support.
